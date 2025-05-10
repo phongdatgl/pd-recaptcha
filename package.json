@@ -1,6 +1,6 @@
 {
   "name": "pd-recaptcha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple reCAPTCHA token verifier for Node.js",
   "main": "index.js",
   "scripts": {
